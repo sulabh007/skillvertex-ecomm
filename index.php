@@ -53,7 +53,7 @@ include 'partials/navbar.php'; ?>
 									</form>
 								</div>
 								<div class="col-sm-6">
-									<img src="" class="girl img-responsive" alt="" />		<!-- @Sulabh Jha insert your image here -->
+									<img src="images\home\sulabh.jpeg" class="girl img-responsive" style="width:300px;" alt="" />		<!-- @Sulabh Jha insert your image here -->
 								</div>
 							</div>	
 						</div>
